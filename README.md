@@ -12,6 +12,7 @@ This repository provides the code, dataset, and resources for the research proje
 
 ## Directory Structure
 
+```bash
 clean/
 images/
 injected/
@@ -20,6 +21,8 @@ file_generation.py
 gemma.csv
 llama.csv
 metadata.csv
+```
+
 
 
 ## Project Workflow
