@@ -8,7 +8,7 @@ This repository provides the code, dataset, and resources for the research proje
 
 - **280 HTML webpages:** 140 clean (normal), 140 with various HTML-based prompt injection attacks. (Not all HTML pages in HTML folder were used during evaluation, only pages with hidden tags were kept)
 - **Python scripts:** For generating pages, extracting content, summarizing via LLMs, and evaluating summary changes.
-- **Data and results:** Includes sample LLM summaries before/after attacks, evaluation metrics, and summary output files.
+- **Data and results:** Includes sample LLM summaries with and without attacks, evaluation metrics, and metadata file.
 
 ## Directory Structure
 
